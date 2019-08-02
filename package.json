@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-starter-theme-workspace",
+  "private": true,
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn workspace german build"
+  },
+  "workspaces": [
+    "gatsby-theme-minimal",
+    "german",
+    "spanish",
+    "english"
+  ]
+}

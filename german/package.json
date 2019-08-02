@@ -1,0 +1,24 @@
+{
+  "name": "german",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tom Barton <tbarton@rawnet.com>",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.10.6",
+    "gatsby": "^2.13.45",
+    "gatsby-plugin-react-helmet": "^3.1.2",
+    "gatsby-plugin-styled-components": "^3.1.2",
+    "gatsby-source-filesystem": "^2.1.7",
+    "gatsby-source-wordpress": "^3.1.12",
+    "gatsby-theme-minimal": "^1.0.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1",
+    "styled-components": "^4.3.2"
+  }
+}
