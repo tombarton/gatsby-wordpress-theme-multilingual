@@ -2,7 +2,7 @@
   "name": "english",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Tom Barton <tbarton@rawnet.com>",
+  "author": "Tom Barton <tom.r.barton@gmail.com>",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",

@@ -2,7 +2,7 @@
   "name": "gatsby-theme-minimal",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Tom Barton <tbarton@rawnet.com>",
+  "author": "Tom Barton <tom.r.barton@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
     "gatsby": "^2.6.0"
